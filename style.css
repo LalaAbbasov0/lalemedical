@@ -1,16 +1,12 @@
 :root {
     --mavi: #6bc2f1
 }
-
 header { background: url('img/headerbg.jpg') 58% 50%/cover }
 footer { background: #072035;}
-
 #features1 { background: url('img/features1.jpg') center/cover }
 #features2 { background: url('img/features2.jpg') center/cover }
 #features1:hover, #features2:hover { opacity: .5;}
 #features1:hover h4, #features2:hover h4 { display: initial!important;}
- 
-
 .bg-mavi { background-color: var(--mavi) }
 .bg-boz { background-color: #f1f1f1 }
 .text-mavi { color: var(--mavi) }
